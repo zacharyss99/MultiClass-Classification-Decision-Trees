@@ -8,4 +8,17 @@ Included dataset from paper "Early Prediction of Student’s Performance in High
 1. OvR Logistic Regression
 2. Decision Tree Classifier
 3. Developed Custom Random Forest Model For Kaggle Competition. 
-4. Compared all three models based on F1 score, accuracy, and interpretability
+4. Compared all three models based on F1 score, accuracy, and interoperability
+
+# Grade: 4.9/5
+[M3: Custom Model] Custom Model Interpretation (7.0/10.0):
+Mentioned metrics and important features. Should have more in-depth interpretation.
+
+[Q6 Wrap-up & Reflection] Potenial Uses (2.0/4.0):
+
+
+[Overall] General Deductions:
+Good work!
+
+
+Grader: Li
